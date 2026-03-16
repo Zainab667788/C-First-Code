@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+int main(){
+//VARIABLES are containers to store data/values
+//To store numeric values int is used
+int data = 60;
+cout<<data;
+}
